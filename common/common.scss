@@ -1,0 +1,8 @@
+.archetype-regular .topic-post nav.post-controls {
+  button.reply:not(.pm-button-plug-in) {
+    display: none !important;
+  }
+  button.reply.mmn-no-pull {
+    margin-left: 0;
+  }
+}

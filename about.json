@@ -1,0 +1,7 @@
+{
+  "name": "Private Message Button",
+  "component": true,
+  "authors": "Communiteq",
+  "version": "2024.09.24",
+  "license_url": "https://github.com/communiteq/discourse-tc-pm-button/blob/main/LICENSE.txt"
+}

@@ -1,0 +1,4 @@
+en:
+  description: "Adds a 'Send PM' button to posts"
+  pm_button_label: "Send PM"
+  reply_button_label: "Reply"
