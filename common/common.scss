@@ -1,5 +1,5 @@
 .archetype-regular .topic-post nav.post-controls {
-  button.reply:not(.pm-button-plug-in) {
+  button.post-action-menu__reply:not(.tc-pm-button) {
     display: none !important;
   }
   button.reply.mmn-no-pull {
