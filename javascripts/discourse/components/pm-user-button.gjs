@@ -70,7 +70,7 @@ export default class PmUserButton extends Component {
     {{#if this.mustShow}}
       <DButton
         class={{concatClass
-          "post-action-menu__reply"
+          "post-action-menu__send_pm"
           "tc-pm-button"
           "reply"
           (if this.showLabel "create fade-out")
